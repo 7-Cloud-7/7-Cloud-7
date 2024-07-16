@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7-Cloud-7
 - 👀 I’m interested in SysOps, electronics and coding
-- 🌱 I’m currently learning how to make a proccesor in minecraft
+- 🌱 I’m currently learning how to make a processor in minecraft
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cloud71234567@gmail.com
 - ⚡ Fun fact: im autistic, too much
