@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7-Cloud-7
 - 👀 I’m interested in SysAdmin, DDBB, electronics and coding
-- 🌱 I’m currently developing a 2D videogame in Unity
-- 💞️ I’m looking to collaborate on any project where I can learn more about DevOps or coding
+- 🌱 I’m currently making a proxmox environment with multiple services
+- 💞️ I’m looking to collaborate on any project where I can learn more about DevOps or SysAdmin
 - 📫 How to reach me: cloud71234567@gmail.com
 - ⚡ Fun fact: im autistic, too much
 
